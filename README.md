@@ -1,2 +1,2 @@
-![Optional Text](master/ScreenShot/1.png)
+![Optional Text](ScreenShot/1.png)
 
