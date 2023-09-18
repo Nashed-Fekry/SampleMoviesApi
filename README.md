@@ -1,1 +1,1 @@
-![alt text](master/ScreenShot/1.png)
+![alt text](ScreenShot/1.png)
