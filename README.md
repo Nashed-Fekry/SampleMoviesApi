@@ -1,3 +1,2 @@
-![alt text](https://github.com/Nashed-Fekry/SampleMoviesApi/blob/Master/1.png?raw=true)
-
+![Optional Text](../master/ScreenShot/1.png)
 
